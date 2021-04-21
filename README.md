@@ -1,7 +1,7 @@
 # noteTaker
 
 ## Deployed URL 
-(https://technikks.github.io/noteTaker/)
+(https://note-taker-bootcamp-hw11.herokuapp.com/)
 
 
 ## Description
